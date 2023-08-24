@@ -1,8 +1,10 @@
-# React + Vite
+# Project created with React + Vite & tailwind css
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<a href="https://react-seo-marketing-page.surge.sh/" target="_blank">Live Preview</a>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/httpshussam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="httpshussam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdelrahman-hossam-28860b289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-hossam-28860b289" height="30" width="40" /></a>
+<a href="https://fb.com/longlivesahd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="longlivesahd" height="30" width="40" /></a>
+</p>
